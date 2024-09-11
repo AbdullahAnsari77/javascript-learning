@@ -70,6 +70,8 @@
 // console.log("The value of num1-- num2 is " + num1--);
 // console.log("The value of --num1 num2 is " + --num1);
 
+// =========================================================================
+
 // javascript | strings and string methods
 
 // var string = 'this';
@@ -80,3 +82,77 @@
 //   var temp = `${name} is a nice person and he has a chennel called ${chennel}`;
 // console.log(string + name + message);
 //   console.log(temp)
+
+// chapter#1 - Q1
+
+// var a = "Harry"
+// var b= 6;
+// console.log(a + b)
+
+// chapter#1 Q2
+
+// console.log(typeof (a + b))
+
+// chapter#1 -Q3
+
+// const a = {
+//     name:"Harry",
+//     section : 1,
+//     isprincipal:false
+// }
+
+// ===================================
+
+// var x =50;
+
+// console.table ([1,2,3,4,5]);
+
+// document.write("Hello World<br><br>");
+// document.write("<i><b>Hello from Abdullah Ansari</b></i>")
+
+// var z = "Abdullah Ansari";
+// document.write(z);
+// var a = '<br>20'
+// document.write(a)
+
+// var firstName34 = "Hello World"
+// document.write(firstName34)
+
+// ====================================================================
+
+
+// JavaScript If Statement
+
+// var a = 100;
+// var b = "100";
+
+// if(a == b){
+//     document.write("Abdullah Ansari");
+
+//}
+
+// console.log(null === undefined);
+
+// ==============================================
+
+// JavaScript If Else Statement
+
+// var x = '100';
+
+// if(x === 100){
+//     document.write("X is Same");
+// }else{
+//     document.write("X is not Same");
+// }
+// ========================================
+
+// var name1 = 'Abdullah Ansari';
+// var gender = "male";
+
+// if(gender == "Male"){
+//     document.write("Hello Mr." + name1);
+// }else{
+//     document.write("Hello Mr. " + name1)
+// }
+
+
