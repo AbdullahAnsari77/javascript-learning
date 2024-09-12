@@ -120,7 +120,6 @@
 
 // ====================================================================
 
-
 // JavaScript If Statement
 
 // var a = 100;
@@ -154,5 +153,49 @@
 // }else{
 //     document.write("Hello Mr. " + name1)
 // }
+// ============================================
+
+// while loop
+
+// var a = 1;
+// document.write("<ul>");
+// while(a <= 10){
+//     document.write("<li>" + a +") Hello Abdullah Ansari</li>");
+//     // a =a + 1; increment of number
+//     a =a + 1;
+// }
+// document.write("</ul");
+// ======================================================================
+
+// do while loop
+
+// var a = 1
+// do{
+//     document.write(a + " HelloAbdullah Ansari <br>")
+//     // a = a + 1;
+//     a++;
+// }while(a <= 10)
+
+// =========================================================
+
+// For loop
+
+// for(var a = 1; a <= 10; a++){
+//     document.write("Abdullah Ansari<br>");
+// }
+// ==============================================
+
+// JavaScript Create Arrays Method
+
+// var ary = [10, 20, 30, 40, 50];
+// var sum = 0;
+// document.write("<ul>");
+// for (var a = 0; a <= 4; a++) {
+//   document.write("<li>" + ary[a] + "</li>");
+//   sum = sum + ary[a];
+// }
+// document.write("</ul>");
+// document.write("Total Sum :" + sum);
+// ===============================================
 
 
