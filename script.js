@@ -198,4 +198,53 @@
 // document.write("Total Sum :" + sum);
 // ===============================================
 
+//create arrays method
 
+// var ary = new Array(2);
+// for(var g = 0; g < 3; g++){
+//     ary[g] = prompt("Enter the value : ");
+// }
+
+// ary[0] = 10;
+// ary[1] = "Harry";
+// ary[3] = true;
+// document.write("<ul>");
+// for(var a = 0; a <3; a++){
+//     document.write("<li>" + ary[a] + "</li>");
+// }
+// document.write("</ul>");
+// =================================================
+
+// string in javascript
+
+// "use strict";
+// let a = 34;
+// let a = 'This is me';
+// console.log(a);
+// let a = 45;
+// a = 4554 + 4;
+// console.log(a);
+// let name1 = "Harry";
+// console.log(name1[0]);
+// console.log(name1[1]);
+// console.log(name1);
+
+// ====================================
+
+// JavaScript Multidimensional Arrays
+
+// var ary = [
+//   ["Harry", 18, "Male", "B.Com"],
+//   ["Sunny", 19, "Male", "BCA"],
+//   ["Sarah", 20, "Female", "BCA"],
+//   ["Tom", 17, "Male", "B.A"],
+// ];
+
+// document.write("<table border='1px' cellspacing='0'>");
+// for (var a = 0; a < 4; a++) {
+//   for (var b = 0; b < 4; b++) {
+//     document.write("<td>" + ary[a][b] + "</td> ");
+//   }
+//   document.write("</tr>");
+// }
+// document.write("</table>");
