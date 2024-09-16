@@ -248,3 +248,46 @@
 //   document.write("</tr>");
 // }
 // document.write("</table>");
+// ==============================================================
+
+// Javascript Basic Events
+
+// 1-click                    8-key press
+// 2-Double click             9-Key up
+// 3-right                    10-load
+// 4-Mouse Hover              11-unload
+// 5-Mouse out                12-Resize
+// 6-Mouse down               13-scroll
+// 7-Mouse up
+
+// function hello (){
+    // document.write  x
+    // alert("Hello Everyone");
+//}
+// hello();
+// ==========================================
+
+// javascript array pop and push
+
+// var a = ["Sanjay", "Aman", "Rehman", "Karan"];
+// document.write(a + "<br><br>");
+// a.pop();
+// document.write(a + "<br><br>");
+// a.push("Abdullah");
+// document.write(a + "<br><br>");
+// a.push("Ansari");
+// document.write(a + "<br><br>");
+// ============================================
+
+// JavaScript Array Shift & Unshift
+
+// var a = ["Sanjay", "Aman", "Rehman", "Karan"];
+// document.write(a + "<br><br>");
+// a.shift();
+// document.write(a + "<br><br>");
+// a.unshift("Rahul");
+// document.write(a + "<br><br>");
+// ==================================================
+
+
+
