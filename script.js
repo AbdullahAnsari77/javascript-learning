@@ -289,5 +289,83 @@
 // document.write(a + "<br><br>");
 // ==================================================
 
+// Array Sort & Reverse
+
+// var a =["Sanjay","Aman","Rehman","Kamran"];
+// document.write(a + "<br><br>");
+// a.sort();
+// document.write(a + "<br>");
+//  a.reverse
+//  console.log(a + "<br><br>");
+// =============================================
+
+// switch statement
+
+// var day = 1;
+// switch (day) {
+//     case 0:
+//         document.write("Today is Monday")
+        
+//         break;
+
+//         case 1:
+//             document.write("Today is Tuesday")
+//         break;
+
+//         case 2:
+//             document.write("Today is wednesday")
+//         break;
+
+//         case 3:
+//             document.write("Today is thursday")
+//         break;
+
+//         case 4:
+//             document.write("Today is friday")
+//         break;
+
+//         case 5:
+//             document.write("Today is saturday")
+//         break;
+
+//         case 6:
+//             document.write("Today is sunday")
+//         break;
+
+
+//     default:
+//         document.write("Enter the valid Week Day")
+//         break;
+
+//}
+//  var age = 20;
+// switch (true) {
+//     case (age>= 15 && age <= 20):
+//         document.write("You are Eligible");
+//         break;
+//         case (age>= 21 && age <= 30):
+//         document.write("You are not Eligible");
+//         break;
+
+//     default:
+//         document.write("Enter the valid Age.");
+//         break;
+// }
+
+// ====================================================
+
+// Array Concat & Join
+
+// var a = ["Sanjay", "Aman", "Rehman"];
+// var b = ["Huzaifa","Ahmed"]; 
+
+// var c = a.concat(b);
+// document.write(c + "<br><br>");
+
+// join//
+
+// var d = c.join(" / ");
+// document.write(d);
+
 
 
